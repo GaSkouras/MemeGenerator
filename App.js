@@ -1,18 +1,17 @@
 import React from 'react'
-import Header from "./components/Header"
-import MainContent from "./components/MainContent"
-import Footer from "./components/Footer"
-
+import Header from "./Header"
+import MemeGenerator from "./MemeGenerator"
+import './style.css'
 
 function App()
 {
 	return (
 		<div>
-			<Header />
-			<MainContent />
-			<Footer />
+			<Header />			
+			<MemeGenerator />
 		</div>
 	)
 }
+
 
 export default App
