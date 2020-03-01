@@ -7,5 +7,5 @@ To install React.js and get this app running locally just follow these steps.
 * sudo apt install npm
 * sudo npm install create-react-app -g
 * create-react-app 'MemeGenerator'
- And then just type 
+ , and then just type 
  * npm start
